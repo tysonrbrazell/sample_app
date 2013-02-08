@@ -4,6 +4,7 @@ gem 'rails', '3.2.11'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
+gem 'bootstrap-sass', '2.1'
 
 group :development, :test do 
 	gem 'sqlite3', '1.3.5'
